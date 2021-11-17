@@ -1,5 +1,5 @@
 <head>
-    <h1>Hello, Coder 👋</h1>
+    <h1>Hello, Coder <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
     <p align="left">
         My Name is Saleh Rashid<br>
         I live in Brebes, Central Java<br>
@@ -16,7 +16,7 @@
 <body>
     <p align="left">
         <a href="https://github.com/salehrashid">
-            <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salehrashid&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=salehrashid&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
         </a>
     </p>
     <p>
