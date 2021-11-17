@@ -1,14 +1,14 @@
-
 <head>
     <h1>Hello, Coder 👋</h1>
     <p align="left">
-        My Name is Saleh Rashid Babsel<br>
+        My Name is Saleh Rashid<br>
+        I live in Brebes, Central Java<br>
         <br>
         I'm a Web Developer, and My School in IDN Boarding School, Bogor, East Java<br>
         <br>
         If you want to contact me, just click the link belows:<br>
         <ul>
-            <li>My LinkedIn<a href="https://www.linkedin.com/in/saleh-rashid-24541521a/">Saleh Rashid</a></li>
+            <li>My LinkedIn: <a href="https://www.linkedin.com/in/saleh-rashid-24541521a/">Saleh Rashid</a></li>
             <li>My Instagram: <a href="https://www.instagram.com/salehrashid4/">salehrashid4</a></li>
         </ul>
     </p>
@@ -21,15 +21,12 @@
     </p>
     <p>
         <a href="https://github.com/salehrashid">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyauqiAlifI&show_icons=true&theme=highcontrast">
-            <!--
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyauqiAlifI&layout=compact&langs_count=8&theme=highcontrast&custom_title=My Programming Language">
-            -->
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salehrashid&show_icons=true&theme=highcontrast">  
         </a>
     </p>
     <p>
-        <a href="https://github.com/SyauqiAlifI">
-            <img src="https://activity-graph.herokuapp.com/graph?username=SyauqiAlifI&theme=github">
+        <a href="https://github.com/salehrashid">
+            <img src="https://activity-graph.herokuapp.com/graph?username=salehrashid&theme=github">
         </a>
     </p>    
 </body>
