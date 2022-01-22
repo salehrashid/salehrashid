@@ -9,7 +9,7 @@
         <br>
         If you want to contact me, just click the link belows:<br>
         <ul>
-            <li>My LinkedIn: <a href="https://www.linkedin.com/in/saleh-rashid-24541521a/">Saleh Rashid</a></li>
+            <li>My LinkedIn: <a href="https://www.linkedin.com/in/saleh-rashid-babsel-24541521a/">Saleh Rashid</a></li>
             <li>My Instagram: <a href="https://www.instagram.com/salehrashid4/">salehrashid4</a></li>
         </ul>
     </p>
