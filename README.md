@@ -23,11 +23,6 @@
     </p>
     <p>
         <a href="https://github.com/salehrashid">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salehrashid&show_icons=true&theme=highcontrast">  
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/salehrashid">
             <img src="https://activity-graph.herokuapp.com/graph?username=salehrashid&theme=github">
         </a>
     </p>    
