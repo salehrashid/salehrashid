@@ -1,5 +1,5 @@
 <head>
-    <h1>Hello, Coder <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+    <h1>Hello, Coder</h1>
     <p align="left">
         <h3>My Name Is<h3>
 <h1 align="center">Saleh Rashid B.</h1>
