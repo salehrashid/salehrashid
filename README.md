@@ -1,7 +1,7 @@
 <head>
     <h1>Hello, Coder <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
     <h1 align="center">I'm <a href="https://www.linkedin.com/in/saleh-r-babsel-24541521a/">Saleh R. Babsel</a></h1>    
-    <h3 align="center">I'm a Flutter Developer</h3>
+    <h3 align="center">Flutter is all about Widget</h3>
     <h3>Connect with me on</h3>
 
 [<img align="left" alt="Saleh Rashid | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
