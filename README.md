@@ -9,7 +9,7 @@
 [<img align="left" alt="Saleh Rashid | Github" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fgithub.png?alt=media" />][github]
 [<img align="left" alt="Saleh Rashid | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
 [<img align="left" alt="Saleh Rashid | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail] 
-[<img align="left" alt="Saleh Rashid | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]<br>
+[<img align="left" alt="Saleh Rashid | twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]<br>
 
 <h3>Language and tools</h3>
 
@@ -17,6 +17,7 @@
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“Git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt=“Ubuntu” width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
+<img align="left" alt=“Android” width="26px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" />
 <img align="left" alt=“Vscode” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 
 <br/>
