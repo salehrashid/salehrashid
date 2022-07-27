@@ -8,7 +8,8 @@
 [<img align="left" alt="Saleh Rashid | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium]
 [<img align="left" alt="Saleh Rashid | Github" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fgithub.png?alt=media" />][github]
 [<img align="left" alt="Saleh Rashid | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
-[<img align="left" alt="Saleh Rashid | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail] <br>
+[<img align="left" alt="Saleh Rashid | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][gmail] 
+[<img align="left" alt="Saleh Rashid | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]<br>
 
 <h3>Language and tools</h3>
 
@@ -41,3 +42,4 @@
 [github]: https://github.com/salehrashid
 [medium]: https://medium.com/@saleh.rashid.b
 [gmail]: https://mail.google.com/mail/u/0/#inbox
+[twitter]: https://twitter.com/SalehRashid123?t=rV23VBDFWnuxKxoVoxRZvg&s=08
