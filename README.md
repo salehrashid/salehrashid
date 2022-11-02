@@ -42,4 +42,4 @@
 [linkedin]: https://www.linkedin.com/in/saleh-r-babsel-24541521a/
 [github]: https://github.com/salehrashid
 [medium]: https://medium.com/@saleh.rashid.b
-[gmail]: https://mail.google.com/mail/u/0/#inbox
+[gmail]: mailto:saleh.rashid.b@gmail.com
