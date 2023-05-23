@@ -39,7 +39,7 @@
 </body>
 
 [youtube]: https://www.youtube.com/channel/UChLxnrCBFKSWTF_xI3QlPJA
-[linkedin]: https://www.linkedin.com/in/saleh-r-babsel-24541521a/
+[linkedin]: https://www.linkedin.com/in/salehbabsel/
 [github]: https://github.com/salehrashid
 [medium]: https://medium.com/@saleh.rashid.b
 [gmail]: mailto:saleh.rashid.b@gmail.com
