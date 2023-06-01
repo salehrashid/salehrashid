@@ -30,12 +30,7 @@
             <img height="192em" src="https://github-readme-stats.vercel.app/api?username=salehrashid&show_icons=true&theme=gotham"/>
             <img width="520px" src="https://github-readme-streak-stats.herokuapp.com?user=salehrashid&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
         </a>
-    </p>
-    <p>
-        <a href="https://github.com/salehrashid">
-            <img src="https://activity-graph.herokuapp.com/graph?username=salehrashid&bg_color=000000&color=00ff91&line=00ff91&point=fcfcfc&area=true&hide_border=true">
-        </a>
-    </p>    
+    </p>  
 </body>
 
 [youtube]: https://www.youtube.com/channel/UChLxnrCBFKSWTF_xI3QlPJA
