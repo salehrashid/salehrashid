@@ -1,7 +1,7 @@
 <head>
     <h1>Hello, Coder <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
     <h1 align="center">I'm <a href="https://www.linkedin.com/in/salehbabsel/">Saleh R. Babsel</a></h1>    
-    <h3 align="center">A passionate flutter developer from Indonesia</h3>
+    <h3 align="center">A passionate software developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salehrashid&label=Profile%20views&color=0e75b6&style=flat" alt="salehrashid" /> </p>
     <h3>Connect with me on</h3>
     
@@ -13,11 +13,12 @@
 
 <h3>Language and tools</h3>
 
-<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
-<img align="left" alt=“Git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt=“Ubuntu” width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
-<img align="center" alt=“Golang” width="45px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
+[<img align="left" alt=“Symfony” width="26px" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" />][symfony]
+[<img align="left" alt=“Git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
+[<img align="left" alt=“Ubuntu” width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />][ubuntu]
+[<img align="left" alt=“Php” width="45px" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" />][php]
+[<img align="center" alt=“Golang” width="45px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />][golang]
 
 <br/>
 
@@ -37,3 +38,9 @@
 [github]: https://github.com/salehrashid
 [medium]: https://medium.com/@saleh.rashid.b
 [gmail]: mailto:saleh.rashid.b@gmail.com
+[flutter]: https://flutter.dev/
+[php]: https://www.php.net/
+[git]: https://git-scm.com/
+[ubuntu]: https://ubuntu.com/
+[golang]: https://go.dev/
+[symfony]: https://symfony.com/
