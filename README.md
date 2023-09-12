@@ -13,12 +13,15 @@
 
 <h3>Language and tools</h3>
 
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
-[<img align="left" alt=“Symfony” width="26px" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" />][symfony]
-[<img align="left" alt=“Git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
-[<img align="left" alt=“Ubuntu” width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />][ubuntu]
-[<img align="left" alt=“Php” width="45px" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" />][php]
-[<img align="center" alt=“Golang” width="45px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />][golang]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/>][docker]
+[<img align="left" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt=“ubuntu” width="35" height="35"/>][ubuntu]
+[<img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/>][flutter]
+[<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>][git]
+[<img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="50" height="40"/>][go]
+[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="35"/>][php]
+[<img align="left" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="35" height="35"/>][symfony]
+
+
 
 <br/>
 
@@ -42,5 +45,6 @@
 [php]: https://www.php.net/
 [git]: https://git-scm.com/
 [ubuntu]: https://ubuntu.com/
-[golang]: https://go.dev/
+[go]: https://go.dev/
 [symfony]: https://symfony.com/
+[docker]: https://www.docker.com/
