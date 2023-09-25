@@ -21,8 +21,6 @@
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="35"/>][php]
 [<img align="left" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="35" height="35"/>][symfony]
 
-
-
 <br/>
 
 ## Statistic
