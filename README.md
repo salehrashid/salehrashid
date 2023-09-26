@@ -20,6 +20,7 @@
 [<img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="50" height="40"/>][go]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="35"/>][php]
 [<img align="left" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="35" height="35"/>][symfony]
+[<img align="left" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="35"/>][postgres]
 
 <br/>
 
@@ -46,3 +47,4 @@
 [go]: https://go.dev/
 [symfony]: https://symfony.com/
 [docker]: https://www.docker.com/
+[postgres]: https://www.postgresql.org/
