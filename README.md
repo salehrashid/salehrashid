@@ -27,7 +27,7 @@
 [<img align="left" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="35" height="35"/>][ubuntu]
 [<img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/>][flutter]
 [<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>][git]
-[<img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="50" height="40"/>][go]
+[<img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="50" height="40" style="height: 35px;"/>][go]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="35"/>][php]
 [<img align="left" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="35" height="35"/>][symfony]
 [<img align="left" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="35"/>][postgres]
